@@ -1,0 +1,19 @@
+{
+  "uuid": "ad86686e-cb73-48a5-8096-f91a4f5f5aed",
+  "shortName": "HelloPebble",
+  "longName": "HelloPebble",
+  "companyName": "Skogberg Labs",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
